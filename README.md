@@ -2,4 +2,4 @@
 
 I'm penrose-programmer! 
 
-I'm currently experimenting with NixOS and (re)learning Python.
+I'm currently experimenting with NixOS.
